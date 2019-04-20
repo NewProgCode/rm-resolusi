@@ -1,4 +1,4 @@
 Resolusi
 . Evaluasi matkul
 . Prposal judul skripsi
-. SKKM selasai
+. Membuat program jual/storage
